@@ -5,6 +5,8 @@ A personal Neovim configuration built on [lazy.nvim](https://github.com/folke/la
 ## ✨ Features
 
 - 🎨 **Theme** — [OneDarkPro](https://github.com/olimorris/onedarkpro.nvim)
+- 🔔 **Notifications** — [mini.notify](https://github.com/nvim-mini/mini.notify) for lightweight popup notifications
+- 📄 **Markdown rendering** — [render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) renders Markdown files in-buffer
 - 🔍 **Fuzzy finding** — [Telescope](https://github.com/nvim-telescope/telescope.nvim) for files, live grep, and buffers
 - 🌳 **Syntax highlighting** — [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - 🧠 **LSP** — managed via [mason.nvim](https://github.com/williamboman/mason.nvim), [mason-lspconfig](https://github.com/williamboman/mason-lspconfig.nvim), and [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
